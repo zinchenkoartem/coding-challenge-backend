@@ -32,7 +32,7 @@ As an application reviewer at BP ACCELERATOR Inc.,
 - [ ] I want to see an overview of all applications in the database
 - [ ] I want that when new data for an e-mail address is provided, all old data is automatically deleted
 - [ ] I want to easily generate and download a PDF document, that lists the data provided from the applicant
-  - [ ] the PDF contains the GitHub profile image of the applicant ([API]([url](https://docs.github.com/en/rest/guides/getting-started-with-the-rest-api)))
+  - [ ] the PDF contains the GitHub profile image of the applicant ([API](https://docs.github.com/en/rest/guides/getting-started-with-the-rest-api))
 
 ## Your Mission
 
