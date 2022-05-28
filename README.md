@@ -29,9 +29,10 @@ As an applicant at BP ACCELERATOR Inc.,
 
 As an application reviewer at BP ACCELERATOR Inc.,
 
-- [ ] I want to see all applications in a database
-- [ ] I want the database to contain a PDF document for each applicant, that lists the data provided from the applicant
-- [ ] I want that when new data for an e-mail address is provided, all old data is automatically deleted 
+- [ ] I want to see an overview of all applications in the database
+- [ ] I want that when new data for an e-mail address is provided, all old data is automatically deleted
+- [ ] I want to easily generate and download a PDF document, that lists the data provided from the applicant
+  - [ ] the PDF contains the GitHub profile image of the applicant ([API]([url](https://docs.github.com/en/rest/guides/getting-started-with-the-rest-api)))
 
 ## Your Mission
 
@@ -43,10 +44,6 @@ You can use any boilerplate/approach you prefer, but try to keep it simple. We e
 
 You don't have to host your service publicly, but feel free to do that.
 Please include a description in the README.md how to run the project locally and provide us a well done description for the API.
-
-## Tech Requirements
-
-_to be inserted_
 
 ## Instructions
 
