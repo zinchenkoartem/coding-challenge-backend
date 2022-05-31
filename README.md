@@ -1,4 +1,4 @@
-# AM Coding Challenge - Backend (Flask)
+# AM Coding Challenge - Backend (Java)
 
 ## The case study: Application review
 
@@ -36,11 +36,11 @@ As an application reviewer at BP ACCELERATOR Inc.,
 
 ## Your Mission
 
-Create a Flask application that satisfies all must-have requirements above, plus any nice-to-have requirements you wish to include.
+Create a Java backend application that satisfies all must-have requirements above, plus any nice-to-have requirements you wish to include.
 
 For that, you'll need to provide a REST-API, set up a database and generate a PDF document, that contains the applicants data.
 
-You can use any boilerplate/approach you prefer, but try to keep it simple. We encourage you to use your favorite tools and packages to build a solid Flask application.
+You can use any boilerplate/approach you prefer, but try to keep it simple. We encourage you to use your favorite tools and packages to build a solid web application.
 
 You don't have to host your service publicly, but feel free to do that.
 Please include a description in the README.md how to run the project locally and provide us a well done description for the API.
