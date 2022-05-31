@@ -45,6 +45,8 @@ You can use any boilerplate/approach you prefer, but try to keep it simple. We e
 You don't have to host your service publicly, but feel free to do that.
 Please include a description in the README.md how to run the project locally and provide us a well done description for the API.
 
+The final delivery must be running with Docker.
+
 ## Instructions
 
 - Fork this repo
