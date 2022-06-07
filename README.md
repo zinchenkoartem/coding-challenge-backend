@@ -3,7 +3,7 @@
 ## The case study: Application review
 
 Reviewing applications is one of the key activities, when starting a new project.
-To takle that challenge, BP ACCELERATOR Inc. wants to provide an API, via which applicant can hand in their application with past project experience.
+To take that challenge, BP ACCELERATOR Inc. wants to provide an API, via which applicant can hand in their application with past project experience.
 
 The software stores the data in a data base and generates a document, so the application can be reviewed by the HR department
 
@@ -61,3 +61,13 @@ The final delivery must be running with Docker.
 ## License
 
 We have licensed this project under the MIT license so that you may use this for a portfolio piece (or anything else!).
+
+## How to run in Docker
+### Requirements:
+- Java 11
+- Docker
+### Run commands in terminal:
+- ./gradlew bootBuildImage
+- docker run -p 8080:8080 am-coding-challenge:1.0-SNAPSHOT
+### API check 
+- http://localhost:8080/swagger-ui.html
